@@ -1,3 +1,7 @@
+# It's published!
+
+Here is the link to my published CV/resumé: https://rebeccaneve.github.io/Resume/ 
+
 # prj4-cv
 
 A template to create a CV while learning HTML and CSS
